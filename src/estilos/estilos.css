@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgba(0, 0, 0, 0.493);
+    color:azure;
+}
+
+li {
+    cursor: pointer;
+}
+
+
+
+.logo{
+    width: 180px;
+}
+
+
+/* Contatos*/
+
+div.container_contatos{
+    margin-top: 50px;
+}
+
+div.zap img {
+    width: 50px;
+}
+
+div.email img{
+    width: 50px;
+}
+
+form.formCont {
+    width: 500px; 
+    margin: 50px auto 60px auto;
+}
+
+.inputMsg {
+    width: 400px; 
+    height:50px;
+}
+
+.inputNome {
+    width: 400px;
+}
+/* contatos*/
+
+/* lojas*/
+div.lojas{
+    display: inline-block;
+    margin: 30px 50px 30px 50px;
+}
+
+div.container_lojas{
+    text-align: center;
+}
+/*Lojas*/
+
+
+/* footer */
+#rodape{
+    text-align: center;
+    margin: 100px auto 0 auto;
+}
+
+/*  footer*/
